@@ -1,4 +1,4 @@
-# TimeSeriesForecasting
+# LTSF-Linear
 Time Series Forecasting for Univariate Data
 
 this repository is implementation of LTSF-Linear paper
